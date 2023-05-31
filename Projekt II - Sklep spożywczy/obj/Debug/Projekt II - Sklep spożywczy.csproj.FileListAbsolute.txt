@@ -1,0 +1,82 @@
+C:\Users\ploci\source\repos\Projekt II - Sklep spożywczy\Projekt II - Sklep spożywczy\bin\Debug\Projekt II - Sklep spożywczy.exe.config
+C:\Users\ploci\source\repos\Projekt II - Sklep spożywczy\Projekt II - Sklep spożywczy\bin\Debug\Projekt II - Sklep spożywczy.exe
+C:\Users\ploci\source\repos\Projekt II - Sklep spożywczy\Projekt II - Sklep spożywczy\bin\Debug\Projekt II - Sklep spożywczy.pdb
+C:\Users\ploci\source\repos\Projekt II - Sklep spożywczy\Projekt II - Sklep spożywczy\obj\Debug\Projekt II - Sklep spożywczy.csproj.AssemblyReference.cache
+C:\Users\ploci\source\repos\Projekt II - Sklep spożywczy\Projekt II - Sklep spożywczy\obj\Debug\Projekt II - Sklep spożywczy.csproj.SuggestedBindingRedirects.cache
+C:\Users\ploci\source\repos\Projekt II - Sklep spożywczy\Projekt II - Sklep spożywczy\obj\Debug\Projekt_II___Sklep_spożywczy.Form1.resources
+C:\Users\ploci\source\repos\Projekt II - Sklep spożywczy\Projekt II - Sklep spożywczy\obj\Debug\Projekt_II___Sklep_spożywczy.Properties.Resources.resources
+C:\Users\ploci\source\repos\Projekt II - Sklep spożywczy\Projekt II - Sklep spożywczy\obj\Debug\Projekt II - Sklep spożywczy.csproj.GenerateResource.cache
+C:\Users\ploci\source\repos\Projekt II - Sklep spożywczy\Projekt II - Sklep spożywczy\obj\Debug\Projekt II - Sklep spożywczy.csproj.CoreCompileInputs.cache
+C:\Users\ploci\source\repos\Projekt II - Sklep spożywczy\Projekt II - Sklep spożywczy\obj\Debug\Projekt II - Sklep spożywczy.exe
+C:\Users\ploci\source\repos\Projekt II - Sklep spożywczy\Projekt II - Sklep spożywczy\obj\Debug\Projekt II - Sklep spożywczy.pdb
+C:\Users\ploci\source\repos\Projekt II - Sklep spożywczy\Projekt II - Sklep spożywczy\obj\Debug\Projekt_II___Sklep_spożywczy.OkienkoDodajPracownika.resources
+H:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt II - Sklep spożywczy.csproj.AssemblyReference.cache
+H:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt II - Sklep spożywczy.csproj.SuggestedBindingRedirects.cache
+H:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt_II___Sklep_spożywczy.Form1.resources
+H:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt_II___Sklep_spożywczy.OkienkoDodajPracownika.resources
+H:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt_II___Sklep_spożywczy.Properties.Resources.resources
+H:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt II - Sklep spożywczy.csproj.GenerateResource.cache
+H:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt II - Sklep spożywczy.csproj.CoreCompileInputs.cache
+H:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt II - Sklep spożywczy.exe
+H:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt II - Sklep spożywczy.pdb
+H:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\bin\Debug\Projekt II - Sklep spożywczy.exe.config
+H:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\bin\Debug\Projekt II - Sklep spożywczy.exe
+H:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\bin\Debug\Projekt II - Sklep spożywczy.pdb
+H:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt_II___Sklep_spożywczy.DzieńRoboczyForm.resources
+H:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt_II___Sklep_spożywczy.PracownikDzieńRoboczyForm.resources
+D:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\bin\Debug\Projekt II - Sklep spożywczy.exe.config
+D:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\bin\Debug\Projekt II - Sklep spożywczy.exe
+D:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\bin\Debug\Projekt II - Sklep spożywczy.pdb
+D:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt II - Sklep spożywczy.csproj.AssemblyReference.cache
+D:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt II - Sklep spożywczy.csproj.SuggestedBindingRedirects.cache
+D:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt_II___Sklep_spożywczy.DzieńRoboczyForm.resources
+D:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt_II___Sklep_spożywczy.Form1.resources
+D:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt_II___Sklep_spożywczy.OkienkoDodajPracownika.resources
+D:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt_II___Sklep_spożywczy.PracownikDzieńRoboczyForm.resources
+D:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt_II___Sklep_spożywczy.Properties.Resources.resources
+D:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt II - Sklep spożywczy.csproj.GenerateResource.cache
+D:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt II - Sklep spożywczy.csproj.CoreCompileInputs.cache
+D:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt II - Sklep spożywczy.exe
+D:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt II - Sklep spożywczy.pdb
+H:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt_II___Sklep_spożywczy.Raporty.resources
+D:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt_II___Sklep_spożywczy.Raporty.resources
+F:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\bin\Debug\Projekt II - Sklep spożywczy.exe.config
+F:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\bin\Debug\Projekt II - Sklep spożywczy.exe
+F:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\bin\Debug\Projekt II - Sklep spożywczy.pdb
+F:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt II - Sklep spożywczy.csprojAssemblyReference.cache
+F:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt_II___Sklep_spożywczy.DzieńRoboczyForm.resources
+F:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt_II___Sklep_spożywczy.Form1.resources
+F:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt_II___Sklep_spożywczy.GodzinyPracyCzyPrawidlowe.resources
+F:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt_II___Sklep_spożywczy.OkienkoDodajPracownika.resources
+F:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt_II___Sklep_spożywczy.PracownikDzieńRoboczyForm.resources
+F:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt_II___Sklep_spożywczy.PracownikNiezgodnaLiczbaGodzin.resources
+F:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt_II___Sklep_spożywczy.Properties.Resources.resources
+F:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt_II___Sklep_spożywczy.Raporty.resources
+F:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt_II___Sklep_spożywczy.Wypłata.resources
+F:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt II - Sklep spożywczy.csproj.GenerateResource.cache
+F:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt II - Sklep spożywczy.csproj.CoreCompileInputs.cache
+F:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt II - Sklep spożywczy.exe
+F:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt II - Sklep spożywczy.pdb
+D:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt_II___Sklep_spożywczy.Raport1.resources
+D:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt_II___Sklep_spożywczy.Raport2.resources
+D:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt_II___Sklep_spożywczy.Raport3.resources
+E:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\bin\Debug\Projekt II - Sklep spożywczy.exe.config
+E:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\bin\Debug\Projekt II - Sklep spożywczy.exe
+E:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\bin\Debug\Projekt II - Sklep spożywczy.pdb
+E:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt II - Sklep spożywczy.csprojAssemblyReference.cache
+E:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt_II___Sklep_spożywczy.DzieńRoboczyForm.resources
+E:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt_II___Sklep_spożywczy.Form1.resources
+E:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt_II___Sklep_spożywczy.Raport1.resources
+E:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt_II___Sklep_spożywczy.OkienkoDodajPracownika.resources
+E:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt_II___Sklep_spożywczy.PracownikDzieńRoboczyForm.resources
+E:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt_II___Sklep_spożywczy.Raport2.resources
+E:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt_II___Sklep_spożywczy.Properties.Resources.resources
+E:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt_II___Sklep_spożywczy.Raporty.resources
+E:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt_II___Sklep_spożywczy.Raport3.resources
+E:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt II - Sklep spożywczy.csproj.GenerateResource.cache
+E:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt II - Sklep spożywczy.csproj.CoreCompileInputs.cache
+E:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt II - Sklep spożywczy.exe
+E:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt II - Sklep spożywczy.pdb
+H:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt_II___Sklep_spożywczy.Raport1.resources
+H:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt_II___Sklep_spożywczy.Raport2.resources
+H:\2 Semestr\Programowanie obiektowe\Projekt II\Projekt II - Sklep spożywczy\obj\Debug\Projekt_II___Sklep_spożywczy.Raport3.resources
